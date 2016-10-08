@@ -14,6 +14,7 @@ void initQueens(int *queens, int width);
 // Checks whether there is valid position
 bool checkPos(int row, int pos, const int *queens);
 
+
 int main()
 {
 	int width;
